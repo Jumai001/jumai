@@ -1,0 +1,10 @@
+@@ -0,0 +1,9 @@
+@tailwind base
+@tailwind component;
+@tailwind utilities;
+
+@layer utilities {
+  .hover-red {
+    color: red;
+  }
+}
